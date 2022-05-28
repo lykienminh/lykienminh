@@ -1,6 +1,10 @@
+<p align="center"><img width="150px" src="https://raw.githubusercontent.com/lykienminh/lykienminh/master/photo_2022-03-30 23.55.27.jpeg"></p>
+
 # Hi, I'm Ly Kien Minh 🔥🔥🔥
 
-I'm a senior student who lives in the Vietnam. I'm learning how to code.
+<!-- I'm a senior student at Ho Chi Minh City University of Technology. I'm learning how to code. -->
+I'm a senior student pursuing a Bachelors's in Computer Science from Ho Chi Minh City University of Technology. I'm a passionate learner who's always willing to learn and work across technologies.
+
 
 ---
 
