@@ -11,4 +11,4 @@ A learner and adaptable developer developing web applications and software solut
 ## PROJECTS:
 * [Online Compiler BE (NodeJS)](https://github.com/lykienminh/CybersoftCompiler)
 * [Online Python Compiler](https://tinyurl.com/Min-FPTTeleFSS-proj-OnlPYCpl)
-* [Back End Development and APIs (NodeJS + MongoDB) | freeCodeCamp](https://tinyurl.com/Min-FPTTeleFSS-proj-NodeJS)
+* [Back End Development and APIs (NodeJS + MongoDB)](https://tinyurl.com/Min-FPTTeleFSS-proj-NodeJS)
